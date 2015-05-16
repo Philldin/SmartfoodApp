@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="smartfood.View.WelcomeActivity">
+
+
+    <item android:id="@+id/MenuIten4"
+        android:title="@string/title_activity_ver_perfil" />
+    <item
+        android:id="@+id/MenuIten3"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/MenuIten1"
+        android:title="@string/link"/>
+    <item
+        android:id="@+id/MenuIten2"
+        android:title="@string/logout"/>
+</menu>

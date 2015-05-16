@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SmartFood</string>
+    <string name="Nome">SmartFood App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Opções</string>
+
+    <string name="link">Clique aqui!</string>
+    <string name="title_activity_Login">Login</string>
+    <string name="title_activity_Welcome">SmartFood</string>
+    <string name="welcome">Seja bem vindo a essa palhaçada</string>
+    <string name="voltar">Voltar</string>
+    <string name="login">Login</string>
+    <string name="logout">Sair</string>
+    <string name="Logar">Submit</string>
+    <string name="title_activity_cadastrar">Cadastrar</string>
+    <string name="action_settings">Settings</string>
+    <string name="LblNome">Nome</string>
+    <string name="LblEmail">E-mail</string>
+    <string name="Lblsenha">Senha</string>
+    <string name="LblTel">Telefone</string>
+    <string name="LblConfSenha">Confirmar Senha</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Password">Senha</string>
+    <string name="bt_login">Entrar</string>
+    <string name="bt_cadastrar">Cadastrar</string>
+
+    <string name="title_activity_ver_perfil">VerPerfilActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+</resources>
